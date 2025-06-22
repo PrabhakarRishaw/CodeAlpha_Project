@@ -3,8 +3,8 @@
 ## 🌐 Internship Domain: C++ Programming  
 **Internship Platform**: CodeAlpha  
 **Intern Name**: Rishaw Prabhakar  
-**Task Title**:   Banking System
-**Task Number**: Task  4
+**Task Title**: Banking System
+**Task Number**: Task 4
 **Internship Duration**: April 30 – June 30, 2025   
 
 ## Task: Banking System
